@@ -1,11 +1,13 @@
 //本人无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。[所有内容仅供学习使用，请勿用于违法用途]
+//🐧裙：926953902
+//TG裙：https://t.me/zhongnanganhuoku
 
 {
 	"spider": "https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
-{"key":"Tg|豆瓣","name":"🔍Tg豆瓣┃心不悔","type":3,"api":"csp_TgYunDouBanPan","searchable":1,"changeable":0,"ext":{"siteUrl":"http://127.0.0.1:9999","count":4,"channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"}},
+{"key":"Tg|豆瓣","name":"🔍Tg豆瓣┃心不悔㊗️新年快乐！","type":3,"api":"csp_TgYunDouBanPan","searchable":1,"changeable":0,"ext":{"siteUrl":"http://127.0.0.1:9999","count":4,"channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"}},
 {"key":"弹幕","name":"🅿嗷嗚弹幕┃刷新一下自动启动","type":3,"api":"csp_GoConfigAmnsr","jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
 {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 {"key":"csp_GuaZi","name":"🍉瓜子","type":3,"api":"csp_GuaZi","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
