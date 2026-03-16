@@ -2,9 +2,9 @@
 不悔专享,#genre#
 
 山东卫视4K,http://pan1.webzx.net:5050/rtp/239.253.242.172:8000/
-湖南卫视4K,http://pan1.webzx.net:5050/rtp/239.253.242.028:8000/
-浙江卫视4K,http://pan1.webzx.net:5050/rtp/239.253.242.027:8000/
-深圳卫视4K,http://pan1.webzx.net:5050/rtp/239.253.242.061:8000/
+湖南卫视4K,http://pan1.webzx.net:5050/rtp/239.253.242.28:8000/
+浙江卫视4K,http://pan1.webzx.net:5050/rtp/239.253.242.27:8000/
+深圳卫视4K,http://pan1.webzx.net:5050/rtp/239.253.242.61:8000/
 华数4K,http://pan1.webzx.net:5050/rtp/239.253.242.102:8000/
 广东卫视4K,http://pan1.webzx.net:5050/rtp/239.253.242.108:8000/
 CCTV 4K,http://pan1.webzx.net:5050/rtp/239.253.242.122:8000/
@@ -198,9 +198,9 @@ IPTV法治,http://pan1.webzx.net:5050/rtp/239.253.242.138:8000/
 
 
 山东卫视4K,http://jamesgeng.asuscomm.com:9527/rtp/239.253.242.172:8000/
-湖南卫视4K,http://jamesgeng.asuscomm.com:9527/rtp/239.253.242.028:8000/
+湖南卫视4K,http://jamesgeng.asuscomm.com:9527/rtp/239.253.242.28:8000/
 浙江卫视4K,http://jamesgeng.asuscomm.com:9527/rtp/239.253.242.027:8000/
-深圳卫视4K,http://jamesgeng.asuscomm.com:9527/rtp/239.253.242.061:8000/
+深圳卫视4K,http://jamesgeng.asuscomm.com:9527/rtp/239.253.242.61:8000/
 华数4K,http://jamesgeng.asuscomm.com:9527/rtp/239.253.242.102:8000/
 广东卫视4K,http://jamesgeng.asuscomm.com:9527/rtp/239.253.242.108:8000/
 CCTV 4K,http://jamesgeng.asuscomm.com:9527/rtp/239.253.242.122:8000/
@@ -396,9 +396,9 @@ IPTV法治,http://jamesgeng.asuscomm.com:9527/rtp/239.253.242.138:8000/
 
 
 山东卫4K,http://nas.yinjunsheng.cloud:8888/rtp/239.253.242.172:8000/
-湖南卫视4K,http://nas.yinjunsheng.cloud:8888/rtp/239.253.242.028:8000/
-浙江卫视4K,http://nas.yinjunsheng.cloud:8888/rtp/239.253.242.027:8000/
-深圳卫视4K,http://nas.yinjunsheng.cloud:8888/rtp/239.253.242.061:8000/
+湖南卫视4K,http://nas.yinjunsheng.cloud:8888/rtp/239.253.242.28:8000/
+浙江卫视4K,http://nas.yinjunsheng.cloud:8888/rtp/239.253.242.27:8000/
+深圳卫视4K,http://nas.yinjunsheng.cloud:8888/rtp/239.253.242.61:8000/
 华数4K,http://nas.yinjunsheng.cloud:8888/rtp/239.253.242.102:8000/
 广东卫视4K,http://nas.yinjunsheng.cloud:8888/rtp/239.253.242.108:8000/
 CCTV 4K,http://nas.yinjunsheng.cloud:8888/rtp/239.253.242.122:8000/
@@ -596,9 +596,9 @@ IPTV法治,http://nas.yinjunsheng.cloud:8888/rtp/239.253.242.138:8000/
 
 
 山东卫视4K,http://112.230.229.109:5050/rtp/239.253.242.172:8000/
-湖南卫视4K,http://112.230.229.109:5050/rtp/239.253.242.028:8000/
-浙江卫视4K,http://112.230.229.109:5050/rtp/239.253.242.027:8000/
-深圳卫视4K,http://112.230.229.109:5050/rtp/239.253.242.061:8000/
+湖南卫视4K,http://112.230.229.109:5050/rtp/239.253.242.28:8000/
+浙江卫视4K,http://112.230.229.109:5050/rtp/239.253.242.27:8000/
+深圳卫视4K,http://112.230.229.109:5050/rtp/239.253.242.61:8000/
 华数4K,http://112.230.229.109:5050/rtp/239.253.242.102:8000/
 广东卫视4K,http://112.230.229.109:5050/rtp/239.253.242.108:8000/
 CCTV 4K,http://112.230.229.109:5050/rtp/239.253.242.122:8000/
