@@ -1,5 +1,5 @@
 {
-"spider":"https://zl.wpscdn.cn/2026/06/29/space_img/701df858-5fe4-4ac0-bc9a-f86a87a8cbf5.jpg;md5;0c32d054350e007ba83c2feacfc1f0ac",
+"spider":"https://zl.wpscdn.cn/2026/07/07/space_img/62cbaa74-b67b-4097-b8d3-a2d169f48a0e.jpg;md5;cc4f45deda39564e41b80ba7b921718b",
 "wallpaper":"https://饭的动态壁纸.xxooo.cf/",
 
 "sites":[
@@ -37,7 +37,7 @@
 {"key":"MTV","name":"🎶明星┃MV","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"}},
 {"key":"有声小说","name":"🎧有声┃小说","type":3,"api":"csp_Tingshu275Guard","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAidGuard","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
-{"key":"虎牙js","name":"🐯虎牙┃直播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable": 1,"quickSearch": 0,"changeable":0},
+{"key":"虎牙js","name":"🐯虎牙┃直播","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable": 1,"quickSearch": 0,"changeable":0},
 {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable": 1,"quickSearch": 0,"changeable":0},
 
 {"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
