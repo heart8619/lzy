@@ -1,5 +1,5 @@
 {
-"spider":"https://zl.wpscdn.cn/2026/07/13/space_img/28d95bad-f58c-4ee0-90c1-8103da37aba9.jpg;md5;dd8f442e52e1a2136d435707d3d743c9",
+"spider":"https://zl.wpscdn.cn/2026/07/18/space_img/1d4f1f0d-a6f9-44ea-9cb5-9b8739fc63de.jpg;md5;7e3ad194f8f1898506604a0972223c3b",
 "wallpaper":"https://饭的动态壁纸.xxooo.cf/",
 
 "sites":[
@@ -59,6 +59,7 @@
 "logo":"https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
 "hosts":["img1.wsyzy.org=fan.cloudflare.182682.xyz","fiizvfck.top=fan.cloudflare.182682.xyz","images.67c6c7a.com=fan.cloudflare.182682.xyz"],
 "lives":[
+{"name":"不悔专享","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/heart8619/lzy/main/live.txt","playerType":2,"epg":"http://diyp5.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"不悔专享","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/heart8619/lzy/main/live.txt","playerType":2,"epg":"http://diyp5.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"develop202","type":0,"url":"https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"epg":"http://diyp5.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Kimentanm","type":0,"url":"https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType":2},
